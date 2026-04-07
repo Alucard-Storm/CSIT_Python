@@ -1,64 +1,93 @@
-# Programming in Python (CSIT - 605)
-
-## List Of Experiments
-
-### **Basic Level Experiments (Getting Python to Talk Back)**
-
-*Goal: Environment setup, syntax comfort, and basic logic.*
-
-1. **[Python Installation, IDE Setup & Hello World Program](Experiment_No_1.md)**
-   Install Python, configure IDE, understand interpreter, and write the first `Hello, World!` program.
-
-2. **[Literals, Constants, Data Types & I/O Program](Experiment_No_2.md)**
-   Demonstrate numeric, string, and boolean data types with user input and formatted output.
-
-3. **[Even or Odd Number Checker](Experiment_No_3.md)**
-   Use conditional statements (`if–else`) to check whether a number is even or odd.
-
-4. **[Square Root of a Number](Experiment_No_4.md)**
-   Compute square root using built-in math functions and user input.
-
-5. **[Exponentiation (Power of a Number)](Experiment_No_5.md)**
-   Calculate the power of a number using operators and built-in functions.
+# PYTHON LAB MANUAL (CSIT-605)
+## Computer Science & Information Technology — VI Semester
+### Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal
 
 ---
 
-### **Intermediate Level Experiments (Logic Meets Structure)**
+# 1. INTRODUCTION
 
-*Goal: Work with collections, loops, and problem-solving patterns.*
+This laboratory manual is designed in accordance with the **CSIT-605 Python Lab syllabus** under the AICTE Flexible Curricula for VI Semester.
 
-1. **[List, Tuple, and Dictionary Operations](Experiment_No_6.md)**
-   Create and manipulate Python’s core data structures with insertion, deletion, and traversal.
+The experiments follow a progressive structure — from environment setup, basic syntax, and control flow to data structures, file handling, and object-oriented programming concepts like functions, inheritance, and polymorphism.
 
-2. **[Fibonacci Series Using Loops](Experiment_No_7.md)**
-   Generate Fibonacci series using iterative logic and control flow.
-
-3. **[First n Prime Numbers](Experiment_No_8.md)**
-   Write a program to find the first `n` prime numbers using nested loops.
-
-4. **[Mean, Median, and Mode of a List](Experiment_No_9.md)**
-   Perform statistical computations using lists and conditional logic.
-
-5. **[File Handling: Reverse Each Line of a File](Experiment_No_10.md)**
-    Read a text file and print each line in reverse order.
+Each experiment uses **Python 3.x** with any compatible IDE (VS Code, PyCharm, or IDLE).
 
 ---
 
-### **Advanced Level / Case Study Experiments (Thinking in Objects & Systems)**
+# 2. COURSE OBJECTIVES
 
-*Goal: Move from scripts to structured programs.*
+- To install Python and set up a development environment
+- To understand **data types, literals, constants**, and I/O operations
+- To implement **conditional statements and loops** for decision-making and iteration
+- To work with **core data structures** — Lists, Tuples, and Dictionaries
+- To apply **mathematical and statistical** operations using standard library modules
+- To perform **file handling** — reading, writing, and processing text files
+- To design **modular programs** using functions with arguments and return values
+- To implement **Object-Oriented concepts** — classes, objects, inheritance, and polymorphism
+- To develop **case study applications** integrating multiple OOP concepts
 
-1. **[Case Study: Banking Transaction System](Experiment_No_11.md)**
-    Define and call functions with arguments and return values (Deposit, Withdraw, Balance check).
+---
 
-2. **[Case Study: Employee Management System](Experiment_No_12.md)**
-    Demonstrate single or multilevel inheritance using classes and objects (Employee -> Manager).
+# 3. SOFTWARE REQUIREMENTS
 
-3. **[Case Study: Restaurant Order System](Experiment_No_13.md)**
-    Achieve polymorphism using default arguments to handle flexible customer orders.
+- **Language:** Python 3.x
+- **IDE:** VS Code / PyCharm / IDLE (bundled with Python)
+- **Standard Library Modules:** `math`, `statistics`
+- **OS:** Windows 10 / 11 or Linux
 
-4. **[Case Study: Student Record Management System](Experiment_No_14.md)**
-    Menu-driven program using list of dictionaries and functions (Add, View, Search, Delete).
+---
 
-5. **[Case Study: Mathematical Utility Toolkit](Experiment_No_15.md)**
-    A unified program combining prime, Fibonacci, factorial, and power operations.
+# 4. LIST OF EXPERIMENTS
+
+| No. | Topic | Experiment | Notes |
+|-----|-------|------------|-------|
+| 01 | Python Installation, IDE Setup & Hello World | [**Exp01_Python_Setup.md**](Experiment_01/Exp01_Python_Setup.md) | [Notes](Experiment_01/Exp01_Python_Setup_Notes.md) |
+| 02 | Literals, Constants, Data Types & I/O | [**Exp02_DataTypes_IO.md**](Experiment_02/Exp02_DataTypes_IO.md) | [Notes](Experiment_02/Exp02_DataTypes_IO_Notes.md) |
+| 03 | Even or Odd Number Checker | [**Exp03_Even_Odd.md**](Experiment_03/Exp03_Even_Odd.md) | [Notes](Experiment_03/Exp03_Even_Odd_Notes.md) |
+| 04 | Square Root of a Number | [**Exp04_Square_Root.md**](Experiment_04/Exp04_Square_Root.md) | [Notes](Experiment_04/Exp04_Square_Root_Notes.md) |
+| 05 | Exponentiation (Power of a Number) | [**Exp05_Exponentiation.md**](Experiment_05/Exp05_Exponentiation.md) | [Notes](Experiment_05/Exp05_Exponentiation_Notes.md) |
+| 06 | List, Tuple, and Dictionary Operations | [**Exp06_Data_Structures.md**](Experiment_06/Exp06_Data_Structures.md) | [Notes](Experiment_06/Exp06_Data_Structures_Notes.md) |
+| 07 | Fibonacci Series Using Loops | [**Exp07_Fibonacci.md**](Experiment_07/Exp07_Fibonacci.md) | [Notes](Experiment_07/Exp07_Fibonacci_Notes.md) |
+| 08 | First n Prime Numbers | [**Exp08_Prime_Numbers.md**](Experiment_08/Exp08_Prime_Numbers.md) | [Notes](Experiment_08/Exp08_Prime_Numbers_Notes.md) |
+| 09 | Mean, Median, and Mode of a List | [**Exp09_Statistics.md**](Experiment_09/Exp09_Statistics.md) | [Notes](Experiment_09/Exp09_Statistics_Notes.md) |
+| 10 | File Handling: Reverse Each Line of a File | [**Exp10_File_Handling.md**](Experiment_10/Exp10_File_Handling.md) | [Notes](Experiment_10/Exp10_File_Handling_Notes.md) |
+| 11 | Functions — Case Study: Banking Transaction System | [**Exp11_Banking_Functions.md**](Experiment_11/Exp11_Banking_Functions.md) | [Notes](Experiment_11/Exp11_Banking_Functions_Notes.md) |
+| 12 | Inheritance — Case Study: Employee Management System | [**Exp12_Inheritance.md**](Experiment_12/Exp12_Inheritance.md) | [Notes](Experiment_12/Exp12_Inheritance_Notes.md) |
+| 13 | Polymorphism — Case Study: Restaurant Order System | [**Exp13_Polymorphism.md**](Experiment_13/Exp13_Polymorphism.md) | [Notes](Experiment_13/Exp13_Polymorphism_Notes.md) |
+| 14 | Case Study: Student Record Management System | [**Exp14_Student_Records.md**](Experiment_14/Exp14_Student_Records.md) | [Notes](Experiment_14/Exp14_Student_Records_Notes.md) |
+| 15 | Case Study: Mathematical Utility Toolkit | [**Exp15_Math_Toolkit.md**](Experiment_15/Exp15_Math_Toolkit.md) | [Notes](Experiment_15/Exp15_Math_Toolkit_Notes.md) |
+
+---
+
+# 5. GENERAL INSTRUCTIONS
+
+- Each experiment follows the standard format:
+  - **Aim** — What the experiment demonstrates
+  - **Theory** — Concepts and key Python constructs explained with a reference table
+  - **Implementation Code** — Ready-to-run Python source
+  - **Expected Output** — What the program should display
+  - **Viva / Discussion Questions** — Common questions to prepare for oral examination
+- All experiments must be executed on **Python 3.x** using VS Code, PyCharm, or IDLE.
+- Students must maintain a **lab record** with handwritten entries or printed code and output.
+- For file handling experiments (Exp 10), ensure `sample.txt` is in the same directory as the script.
+- Each experiment directory contains both the **main experiment file** and a **Notes file** with concept explanations and additional examples.
+
+---
+
+# 6. EVALUATION SCHEME
+
+- Continuous Lab Assessment
+- Experiment Implementation & Running Output
+- Viva-Voce Examination
+- Lab Record Submission
+
+---
+
+# 7. CONCLUSION
+
+This lab provides hands-on exposure to the core features of Python programming. From basic syntax, data types, and control flow to data structures, file handling, and object-oriented programming, students acquire foundational skills essential for real-world Python application development.
+
+---
+
+**Department of Computer Science & Information Technology**  
+Sagar Institute of Research & Technology (SIRT), Bhopal
