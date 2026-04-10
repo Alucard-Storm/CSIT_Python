@@ -35,14 +35,6 @@ print("Hello, World!")
 Hello, World!
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **Interpreted vs Compiled:** What is the difference between an interpreted and a compiled language? Which category does Python fall into?
-2. **REPL:** What does REPL stand for? How do you start the Python interactive shell?
-3. **`print()` function:** What happens if you call `print()` with no arguments?
-4. **File Extension:** What extension do Python source files use, and why?
-5. **Version Check:** What command do you run in a terminal to verify the installed Python version?
-
 ---
 
 [Back to Main Index](../README.md)

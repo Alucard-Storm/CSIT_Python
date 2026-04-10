@@ -103,13 +103,6 @@ Enter choice: 5
 Exiting...
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **List of dicts:** Why is a list of dictionaries used to store records rather than parallel lists?
-2. **`while True`:** What is the purpose of `while True`? How is the loop terminated?
-3. **List comprehension for delete:** Explain how `[s for s in students if s['roll'] != roll]` deletes a record.
-4. **`global` in delete:** Why is `global students` needed in `delete_student()` but not in `add_student()`?
-5. **Persistence:** This program loses all data when it exits. How would you make the records persist between runs?
 
 ---
 

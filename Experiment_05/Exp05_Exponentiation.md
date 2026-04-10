@@ -45,13 +45,6 @@ Enter exponent: 0
 5.0 raised to 0.0 is 1.0
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **`**` vs `pow()`:** What is the difference between `2 ** 10` and `pow(2, 10)`? Which is preferred?
-2. **Modular exponentiation:** What does `pow(2, 10, 1000)` compute, and where is this used?
-3. **Zero exponent:** What is any number raised to the power of 0? Verify with Python.
-4. **Negative exponent:** What does `2 ** -3` evaluate to in Python?
-5. **`math.pow` vs built-in `pow`:** What is the key return-type difference between `math.pow(2, 3)` and `pow(2, 3)`?
 
 ---
 

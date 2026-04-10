@@ -50,14 +50,6 @@ Boolean: True, Type: <class 'bool'>
 You entered: Sample Input
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **Dynamic Typing:** What does it mean that Python is dynamically typed? Give an example.
-2. **`input()` return type:** What data type does `input()` always return? How would you convert it to an integer?
-3. **f-strings:** What is an f-string and how does it differ from `%` formatting or `str.format()`?
-4. **`type()` function:** What does `type(3.0)` return? What about `type(True)`?
-5. **Boolean as int:** What is the result of `True + True` in Python, and why?
-
 ---
 
 [Back to Main Index](../README.md)

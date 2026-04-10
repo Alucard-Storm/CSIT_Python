@@ -94,13 +94,6 @@ Select Operation: 5
 Goodbye!
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **Recursion base case:** What are the base cases in `factorial(n)`? What happens without them?
-2. **Recursion limit:** What is Python's default recursion limit? How can it be changed?
-3. **`fibonacci(1)` edge case:** What does `fibonacci(1)` return? Trace through the code to verify.
-4. **Modular design:** What is the advantage of separating each calculation into its own function?
-5. **`math.factorial`:** Python has a built-in `math.factorial()`. When would you prefer it over a custom recursive implementation?
 
 ---
 

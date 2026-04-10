@@ -73,13 +73,6 @@ Name: Pawan Tiwari
 Total Salary: $95000
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **`__init__` method:** What is the purpose of `__init__`? When is it automatically called?
-2. **`self` parameter:** What does `self` represent? Is it a Python keyword?
-3. **`super()`:** Why is `super().__init__(...)` called in `Manager.__init__`? What happens if it is omitted?
-4. **Method overriding:** How does Python know which `calculate_salary()` to call — the parent's or the child's?
-5. **`isinstance()`:** What would `isinstance(mgr1, Employee)` return, and why?
 
 ---
 

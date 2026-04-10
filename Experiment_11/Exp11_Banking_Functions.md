@@ -73,13 +73,6 @@ Failed Withdrawal: $10000 (Insufficient Funds)
 Final Balance: $3800
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **`def` keyword:** What does `def` stand for and what does it do?
-2. **`return` vs `print`:** What is the difference between a function that `return`s a value and one that only `print`s it?
-3. **`global` keyword:** Why is `global balance` needed inside `deposit()` and `withdraw()`? What would happen without it?
-4. **Default arguments:** Rewrite `deposit()` so that it has a default deposit amount of `100` if none is provided.
-5. **Scope:** What is the difference between local scope and global scope in Python?
 
 ---
 

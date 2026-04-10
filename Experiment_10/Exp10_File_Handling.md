@@ -48,13 +48,6 @@ elif eht fo enil htruoF
 elif eht fo enil htfiF
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **`with` statement:** What is the advantage of using `with open(...)` over manually calling `file.close()`?
-2. **File modes:** What is the difference between `'w'` and `'a'` mode when opening a file?
-3. **`.strip()` before reversing:** What would happen if you reversed the line without calling `.strip()` first?
-4. **`[::-1]` slicing:** Explain Python's extended slice notation `[start:stop:step]`. What does step `-1` do?
-5. **`FileNotFoundError`:** Name two other common file-related exceptions in Python.
 
 ---
 

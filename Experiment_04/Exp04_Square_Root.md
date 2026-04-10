@@ -44,13 +44,6 @@ Enter a number: 2
 Square root of 2.0 is 1.4142135623730951
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **`math.sqrt` vs `** 0.5`:** Are `math.sqrt(x)` and `x ** 0.5` always equivalent? Is there any difference?
-2. **Negative input:** What happens if you pass a negative number to `math.sqrt()`? How would you handle it?
-3. **`import` statement:** What is the difference between `import math` and `from math import sqrt`?
-4. **`float()` conversion:** Why is input converted to `float` instead of `int` for this program?
-5. **`math` constants:** Name two mathematical constants available in the `math` module.
 
 ---
 

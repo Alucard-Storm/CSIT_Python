@@ -55,13 +55,6 @@ First 10 prime numbers:
 2 3 5 7 11 13 17 19 23 29
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **Prime definition:** Is 1 a prime number? Why or why not?
-2. **√n optimization:** Explain why you only need to check divisors up to the square root of a number.
-3. **`break` statement:** What does `break` do inside a loop? How does it affect the `is_prime` flag logic here?
-4. **`while` vs `for`:** Why is a `while` loop used for the outer loop rather than `for`?
-5. **Sieve of Eratosthenes:** Briefly describe this algorithm. How does it differ from the approach in this experiment?
 
 ---
 

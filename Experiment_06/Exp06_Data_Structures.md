@@ -47,13 +47,6 @@ Tuple: (10, 20)
 Dictionary: {'name': 'Akshay Sagar', 'age': 21, 'city': 'Bhopal'}
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **List vs Tuple:** What is the fundamental difference between a list and a tuple? When would you prefer a tuple?
-2. **Mutability:** Why are tuples used as dictionary keys but lists cannot be?
-3. **Dictionary access:** What happens when you access a key that does not exist in a dictionary using `[]`? How does `.get()` behave differently?
-4. **List methods:** Name at least four built-in methods of the `list` type.
-5. **Ordered dictionaries:** Are Python dictionaries ordered? Since which Python version?
 
 ---
 

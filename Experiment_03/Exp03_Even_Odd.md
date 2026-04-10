@@ -43,13 +43,6 @@ Enter a number: 7
 7 is Odd
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **Modulo operator:** What is the result of `10 % 3`? What about `-4 % 2`?
-2. **`if–else` vs `if–elif–else`:** When would you use `elif` instead of a plain `else`?
-3. **Zero:** Is 0 even or odd? What does `0 % 2` return in Python?
-4. **Ternary expression:** Rewrite the even/odd check as a single line using Python's ternary (conditional) expression.
-5. **Negative numbers:** Does the even/odd logic work correctly for negative integers in Python? Why?
 
 ---
 

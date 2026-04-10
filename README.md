@@ -59,14 +59,20 @@ Each experiment uses **Python 3.x** with any compatible IDE (VS Code, PyCharm, o
 
 ---
 
-# 5. GENERAL INSTRUCTIONS
+# 5. Extra Links
+
+- [Practice Questions for Viva](Practice_Questions.md)
+- [Viva Questions and Answers](Viva_Questions_Answers.md)
+
+---
+
+# 6. GENERAL INSTRUCTIONS
 
 - Each experiment follows the standard format:
   - **Aim** — What the experiment demonstrates
   - **Theory** — Concepts and key Python constructs explained with a reference table
   - **Implementation Code** — Ready-to-run Python source
   - **Expected Output** — What the program should display
-  - **Viva / Discussion Questions** — Common questions to prepare for oral examination
 - All experiments must be executed on **Python 3.x** using VS Code, PyCharm, or IDLE.
 - Students must maintain a **lab record** with handwritten entries or printed code and output.
 - For file handling experiments (Exp 10), ensure `sample.txt` is in the same directory as the script.
@@ -74,7 +80,7 @@ Each experiment uses **Python 3.x** with any compatible IDE (VS Code, PyCharm, o
 
 ---
 
-# 6. EVALUATION SCHEME
+# 7. EVALUATION SCHEME
 
 - Continuous Lab Assessment
 - Experiment Implementation & Running Output
@@ -83,7 +89,7 @@ Each experiment uses **Python 3.x** with any compatible IDE (VS Code, PyCharm, o
 
 ---
 
-# 7. CONCLUSION
+# 8. CONCLUSION
 
 This lab provides hands-on exposure to the core features of Python programming. From basic syntax, data types, and control flow to data structures, file handling, and object-oriented programming, students acquire foundational skills essential for real-world Python application development.
 

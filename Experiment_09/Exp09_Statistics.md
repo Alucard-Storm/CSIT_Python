@@ -43,13 +43,6 @@ Median: 3
 Mode: 2
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **Mean vs Median:** When is the median a better measure of central tendency than the mean? Give an example.
-2. **Mode of uniform data:** What happens when `statistics.mode()` is called on `[1, 2, 3, 4]` in Python 3.8+?
-3. **Manual mean:** Write a one-line expression to compute the mean without importing `statistics`.
-4. **Even list median:** How is the median calculated when the list has an even number of elements? Verify with an example.
-5. **`statistics` module:** Name two other statistical functions available in the `statistics` module besides `mean`, `median`, and `mode`.
 
 ---
 

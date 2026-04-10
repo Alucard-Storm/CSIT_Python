@@ -48,13 +48,6 @@ Fibonacci Series:
 0 1 1 2 3 5 8 13
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **Fibonacci definition:** State the mathematical recurrence relation for the Fibonacci sequence.
-2. **`_` variable:** Why is `_` used as the loop variable instead of `i`? What does it conventionally mean?
-3. **Multiple assignment:** How does `a, b = b, a + b` work? Does Python evaluate both sides simultaneously?
-4. **Recursion vs iteration:** What are the trade-offs between a recursive and an iterative Fibonacci implementation?
-5. **Golden ratio:** What famous mathematical constant does the ratio of successive Fibonacci numbers approach?
 
 ---
 

@@ -48,13 +48,6 @@ Order: 1 x Margherita Pizza [Note: Extra Cheese & Basil]
 Order: 3 x Pasta Alfredo [Note: No Parsley]
 ```
 
-## 5. Viva / Discussion Questions
-
-1. **Polymorphism definition:** What is polymorphism? Name and briefly explain two types of polymorphism in Python.
-2. **Default argument rules:** Can a parameter with a default value appear before a parameter without one? Why?
-3. **Mutable defaults:** What is the "mutable default argument" pitfall in Python? Give an example.
-4. **`None` vs `False`:** Why is `None` used as the default for `customization` instead of `""` (empty string)?
-5. **Duck typing:** What is duck typing in Python, and how does it relate to polymorphism?
 
 ---
 
